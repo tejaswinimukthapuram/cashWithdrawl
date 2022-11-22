@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.denomination {
+  width: 70px;
+  height: 25px;
+  background-color: #585076;
+  border-style: solid;
+  margin: 5px;
+  border-radius: 3px;
+  border-color: #ffffff;
+}
